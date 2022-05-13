@@ -14,7 +14,7 @@ function validate(){
       }
 }
 function redirect(){
-    window.location.replace("./main.html");
+    window.location.replace("./index.html");
 }
 
 fo.addEventListener("submit",validate)
