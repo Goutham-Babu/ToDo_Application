@@ -79,7 +79,7 @@ function table(response){
 function checkCounter(){
     let p=new Promise((resolve,reject)=>{
         if(count>=5) {
-            resolve(" 5 task complete")
+            resolve("5 Tasks Completed Successfully")
         }
       
     })
